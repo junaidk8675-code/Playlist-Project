@@ -1,0 +1,142 @@
+[
+    {
+        "title": "Inception",
+        "director": "Christopher Nolan",
+        "genre": "Science Fiction",
+        "status": "Released",
+        "runtime": "148 minutes"
+    },
+    {
+        "title": "The Dark Knight",
+        "director": "Christopher Nolan",
+        "genre": "Action",
+        "status": "Released",
+        "runtime": "152 minutes"
+    },
+    {
+        "title": "The Matrix",
+        "director": "The Wachowskis",
+        "genre": "Action",
+        "status": "Released",
+        "runtime": "136 minutes"
+    },
+    {
+        "title": "Pulp Fiction",
+        "director": "Quentin Tarantino",
+        "genre": "Crime",
+        "status": "Released",
+        "runtime": "154 minutes"
+    },
+    {
+        "title": "The Shawshank Redemption",
+        "director": "Frank Darabont",
+        "genre": "Drama",
+        "status": "Released",
+        "runtime": "142 minutes"
+    },
+    {
+        "title": "Avatar",
+        "director": "James Cameron",
+        "genre": "Science Fiction",
+        "status": "Released",
+        "runtime": "162 minutes"
+    },
+    {
+        "title": "The Godfather",
+        "director": "Francis Ford Coppola",
+        "genre": "Crime",
+        "status": "Released",
+        "runtime": "175 minutes"
+    },
+    {
+        "title": "Titanic",
+        "director": "James Cameron",
+        "genre": "Romance",
+        "status": "Released",
+        "runtime": "195 minutes"
+    },
+    {
+        "title": "Jurassic Park",
+        "director": "Steven Spielberg",
+        "genre": "Adventure",
+        "status": "Released",
+        "runtime": "127 minutes"
+    },
+    {
+        "title": "The Lion King",
+        "director": "Jon Favreau",
+        "genre": "Animation",
+        "status": "Released",
+        "runtime": "118 minutes"
+    },
+    {
+        "title": "Gladiator",
+        "director": "Ridley Scott",
+        "genre": "Action",
+        "status": "Released",
+        "runtime": "155 minutes"
+    },
+    {
+        "title": "Forrest Gump",
+        "director": "Robert Zemeckis",
+        "genre": "Drama",
+        "status": "Released",
+        "runtime": "142 minutes"
+    },
+    {
+        "title": "The Avengers",
+        "director": "Joss Whedon",
+        "genre": "Action",
+        "status": "Released",
+        "runtime": "143 minutes"
+    },
+    {
+        "title": "The Social Network",
+        "director": "David Fincher",
+        "genre": "Biography",
+        "status": "Released",
+        "runtime": "120 minutes"
+    },
+    {
+        "title": "The Grand Budapest Hotel",
+        "director": "Wes Anderson",
+        "genre": "Comedy",
+        "status": "Released",
+        "runtime": "99 minutes"
+    },
+    {
+        "title": "Interstellar",
+        "director": "Christopher Nolan",
+        "genre": "Science Fiction",
+        "status": "Released",
+        "runtime": "169 minutes"
+    },
+    {
+        "title": "Mad Max: Fury Road",
+        "director": "George Miller",
+        "genre": "Action",
+        "status": "Released",
+        "runtime": "120 minutes"
+    },
+    {
+        "title": "La La Land",
+        "director": "Damien Chazelle",
+        "genre": "Musical",
+        "status": "Released",
+        "runtime": "128 minutes"
+    },
+    {
+        "title": "Spider-Man: No Way Home",
+        "director": "Jon Watts",
+        "genre": "Action",
+        "status": "Released",
+        "runtime": "148 minutes"
+    },
+    {
+        "title": "Coco",
+        "director": "Lee Unkrich, Adrian Molina",
+        "genre": "Animation",
+        "status": "Released",
+        "runtime": "105 minutes"
+    }
+]
