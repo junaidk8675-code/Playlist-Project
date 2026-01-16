@@ -4,77 +4,88 @@
         "director": "Christopher Nolan",
         "genre": "Science Fiction",
         "status": "Released",
-        "runtime": "148 minutes"
+        "runtime": "148 minutes",
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/en/2/2e/Inception_%282010%29_theatrical_poster.jpg"
     },
     {
         "title": "The Dark Knight",
         "director": "Christopher Nolan",
         "genre": "Action",
         "status": "Released",
-        "runtime": "152 minutes"
+        "runtime": "152 minutes",
+        "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStSrkl4OLvST4y_f-fz56oL5olr-DCvJ2cWQ&s"
     },
     {
         "title": "The Matrix",
         "director": "The Wachowskis",
         "genre": "Action",
         "status": "Released",
-        "runtime": "136 minutes"
+        "runtime": "136 minutes",
+        "imgSrc":  "https://m.media-amazon.com/images/I/613ypTLZHsL._AC_UF1000,1000_QL80_.jpg"
     },
     {
         "title": "Pulp Fiction",
         "director": "Quentin Tarantino",
         "genre": "Crime",
         "status": "Released",
-        "runtime": "154 minutes"
+        "runtime": "154 minutes",
+        "imgSrc": "https://m.media-amazon.com/images/I/81UTs3sC5hL._AC_UF894,1000_QL80_.jpg"
     },
     {
         "title": "The Shawshank Redemption",
         "director": "Frank Darabont",
         "genre": "Drama",
         "status": "Released",
-        "runtime": "142 minutes"
+        "runtime": "142 minutes",
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/en/8/81/ShawshankRedemptionMoviePoster.jpg"
     },
     {
         "title": "Avatar",
         "director": "James Cameron",
         "genre": "Science Fiction",
         "status": "Released",
-        "runtime": "162 minutes"
+        "runtime": "162 minutes",
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/en/d/d6/Avatar_%282009_film%29_poster.jpg"
     },
     {
         "title": "The Godfather",
         "director": "Francis Ford Coppola",
         "genre": "Crime",
         "status": "Released",
-        "runtime": "175 minutes"
+        "runtime": "175 minutes",
+        "imgSrc": "https://m.media-amazon.com/images/M/MV5BNGEwYjgwOGQtYjg5ZS00Njc1LTk2ZGEtM2QwZWQ2NjdhZTE5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
     },
     {
         "title": "Titanic",
         "director": "James Cameron",
         "genre": "Romance",
         "status": "Released",
-        "runtime": "195 minutes"
+        "runtime": "195 minutes",
+        "imgSrc": "https://m.media-amazon.com/images/I/811lT7khIrL._AC_UF1000,1000_QL80_.jpg"
     },
     {
         "title": "Jurassic Park",
         "director": "Steven Spielberg",
         "genre": "Adventure",
         "status": "Released",
-        "runtime": "127 minutes"
+        "runtime": "127 minutes",
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/en/e/e7/Jurassic_Park_poster.jpg"
     },
     {
         "title": "The Lion King",
         "director": "Jon Favreau",
         "genre": "Animation",
         "status": "Released",
-        "runtime": "118 minutes"
+        "runtime": "118 minutes",
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/en/9/9d/Disney_The_Lion_King_2019.jpg"
     },
     {
         "title": "Gladiator",
         "director": "Ridley Scott",
         "genre": "Action",
         "status": "Released",
-        "runtime": "155 minutes"
+        "runtime": "155 minutes",
+        "imgSrc": "https://m.media-amazon.com/images/I/912Ht9rUWWS._AC_UF894,1000_QL80_.jpg"
     },
     {
         "title": "Forrest Gump",

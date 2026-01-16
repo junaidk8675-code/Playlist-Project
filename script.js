@@ -1,11 +1,11 @@
 console.log("js console");
 
 var data;
-var grid = document.querySelection(".grid-container");
+var grid = document.querySelector(".grid-container");
 
 var xhttp = new XMLHttpRequest();
 
-xhttp.onreadystatechnage = function(){
+xhttp.onreadystatechange = function(){
  if (this.readyState == 4 && this.status == 200){
 
     data = JSON.parse(xhttp.responseText);
@@ -18,9 +18,11 @@ xhttp.onreadystatechnage = function(){
     let textData =
     "<div class='movie-title'>"+ movie.title + "</div>" +
     "<span>"+
-    "director: " + movie.director + "<br>"+
-    "runtime: " + movie.runTime + "<br>" + 
-    "Needs Research: "+
+    "Director: " + movie.director + "<br>"+
+    "Runtime: " + movie.runTime + "<br>" + 
+    "Genre: " + movie.genre + "<br>" + 
+    "Status: " + movie.status + "<br>" + 
+    
     "</span>";
 
     card.innerHTML = textData;
