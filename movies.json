@@ -92,62 +92,71 @@
         "director": "Robert Zemeckis",
         "genre": "Drama",
         "status": "Released",
-        "runtime": "142 minutes"
+        "runtime": "142 minutes",
+        "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgUWp9-0TwpW26xA7KoYJPYaCDyySTFLhNFA&s"
     },
     {
         "title": "The Avengers",
         "director": "Joss Whedon",
         "genre": "Action",
         "status": "Released",
-        "runtime": "143 minutes"
+        "runtime": "143 minutes",
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/en/8/8a/The_Avengers_%282012_film%29_poster.jpg"
     },
     {
         "title": "The Social Network",
         "director": "David Fincher",
         "genre": "Biography",
         "status": "Released",
-        "runtime": "120 minutes"
+        "runtime": "120 minutes",
+        "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrfsNfkRohFrhUJwPFdrFxKeTbHZkQbeGEzw&s"
     },
     {
         "title": "The Grand Budapest Hotel",
         "director": "Wes Anderson",
         "genre": "Comedy",
         "status": "Released",
-        "runtime": "99 minutes"
+        "runtime": "99 minutes",
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/en/1/1c/The_Grand_Budapest_Hotel.png"
     },
     {
         "title": "Interstellar",
         "director": "Christopher Nolan",
         "genre": "Science Fiction",
         "status": "Released",
-        "runtime": "169 minutes"
+        "runtime": "169 minutes",
+        "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK6tdN2LCV5E1ktnQu82L6m4JX8kP4UwnLJQ&s"
     },
     {
         "title": "Mad Max: Fury Road",
         "director": "George Miller",
         "genre": "Action",
         "status": "Released",
-        "runtime": "120 minutes"
+        "runtime": "120 minutes",
+        "imgSrc": "https://m.media-amazon.com/images/M/MV5BZDRkODJhOTgtOTc1OC00NTgzLTk4NjItNDgxZDY4YjlmNDY2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
     },
     {
         "title": "La La Land",
         "director": "Damien Chazelle",
         "genre": "Musical",
         "status": "Released",
-        "runtime": "128 minutes"
+        "runtime": "128 minutes",
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/La_La_Land_%28film%29.png/250px-La_La_Land_%28film%29.png"
     },
     {
         "title": "Spider-Man: No Way Home",
         "director": "Jon Watts",
         "genre": "Action",
         "status": "Released",
-        "runtime": "148 minutes"
+        "runtime": "148 minutes",
+        "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-2nFfPfyvYoVY2d3nfsaVHHcOjQIzuvkVMQ&s"
     },
     {
         "title": "Coco",
         "director": "Lee Unkrich, Adrian Molina",
         "genre": "Animation",
         "status": "Released",
-        "runtime": "105 minutes"
+        "runtime": "105 minutes",
+        "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLdydWhhzw7Fru-bJLiexoY_vy5jfm55mfIQ&s"
     }
 ]
