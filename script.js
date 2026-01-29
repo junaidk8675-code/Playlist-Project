@@ -3,6 +3,10 @@ console.log("js console");
 var data;
 var grid = document.querySelector(".grid-container");
 
+let directorInput = document.querySelector(".grid-container");
+
+
+
 var xhttp = new XMLHttpRequest();
 
 xhttp.onreadystatechange = function(){
@@ -37,6 +41,27 @@ xhttp.onreadystatechange = function(){
   } 
 
 };
+
+
+
+Form.addEventListener("submit",function(e){
+e.preventDefault();
+let title = titleInput.value;
+let publisher = devInput.value;
+let releaseDate = releaseDateInput.value;
+let gifSrc = gifInput.value;
+let imgSrc = imgInput.value;
+let newObj = {
+      "id":getNextId(),
+      "title": title,
+      "publisher": publisher,
+      "releaseDate":releaseDate,
+      "imgSrc":imgSrc,
+      "gifSrc":gifSrc };
+  submitData(newObj);
+  form.rset();
+  
+});
 
 xhttp.open("GET", "movies.json", true);
 xhttp.send();
