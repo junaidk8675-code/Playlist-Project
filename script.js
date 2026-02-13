@@ -42,7 +42,7 @@ function makeCards() {
     let textData =
       "<div class='game-title'>" + movie.title + "</div>" +
       "<div>Publisher: " + movie.director + "</div>" +
-      "<div>Release Date: " + movie.status + "</div>";
+      "<div>Release Date: " + movie.status + "</div><img class= 'image' src='" +movie.imgSrc+"'>";
 
     card.innerHTML = textData;
     grid.appendChild(card);
@@ -50,9 +50,6 @@ function makeCards() {
 
   console.log("cards refreshed");
 }
-
-
-
 
 
 console.log("form script started");
@@ -66,15 +63,15 @@ if (localStorage.getItem("datalist")) {
 var form = document.querySelector("form");
 var titleInput = document.querySelector("#title-input");
 var pubInput = document.querySelector("#publisher-input");
-var dateInput = document.querySelector("#release-date-input");
+var dateInput = document.querySelector("#Status");
 
 form.addEventListener("submit", function (e) {
   e.preventDefault();
 
   var newObj = {
     title: titleInput.value,
-    publisher: pubInput.value,
-    releaseDate: dateInput.value
+    director: pubInput.value,
+    status: dateInput.value
   };
 
   data.push(newObj);
@@ -88,6 +85,11 @@ form.addEventListener("submit", function (e) {
 
   form.reset();
 });
+
+
+
+
+
 
 
 
